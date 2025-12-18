@@ -38,3 +38,4 @@ The scripts can be opened and executed by python3 in VScode to reproduce the fig
 If you use this repository, please cite the article above.
 
 # License
+This repository is distributed under the MIT License.
